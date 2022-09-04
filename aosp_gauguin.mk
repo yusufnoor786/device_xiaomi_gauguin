@@ -18,6 +18,10 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
 TARGET_SUPPORTS_QUICK_TAP := true
 
+# Flexo
+CUSTOM_BUILD_TYPE := OFFICIAL
+FLEXO_MAINTAINER := ZABUKA ZUZU
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_gauguin
 PRODUCT_DEVICE := gauguin
